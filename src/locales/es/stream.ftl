@@ -10,7 +10,7 @@ general-userBoxAuthenticated-signedInAs =
   Registrado como <Username></Username>.
 
 general-userBoxAuthenticated-notYou =
-  ¿No tú? <button>Desconectar</button>
+  ¿No eres tú? <button>Desconectar</button>
 
 general-tabBar-commentsTab = Comentarios
 general-tabBar-myProfileTab = Mi perfil
@@ -22,7 +22,7 @@ comments-allCommentsTab = Todos los comentarios
 comments-featuredTab = Comentarios resaltados
 comments-featuredCommentTooltip-how = ¿Cómo se resalta un comentario?
 comments-featuredCommentTooltip-handSelectedComments =
-  Los comentarios son seleccionados a mano por nuestro equipo como recomiendas por leer.
+  Los comentarios son seleccionados a mano por nuestro equipo como lecturas recomendadas.
 comments-featuredCommentTooltip-toggleButton =
   .aria-label = Alternar el consejo sobre comentarios resaltados
 
